@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from PyQt5 import QtGui, QtWidgets, QtCore
 from PyQt5.QtWidgets import QApplication, QWidget, QMainWindow,QComboBox, QLineEdit, QLabel, QPushButton, QVBoxLayout, QHBoxLayout, QTabWidget, QTabWidget, QSizePolicy, QGridLayout, QGroupBox, QMessageBox
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
